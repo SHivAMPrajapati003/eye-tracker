@@ -2,7 +2,8 @@
 
 This is a fun and interactive Eye Tracker project built with **HTML, CSS, and JavaScript**. It simulates a pair of eyes that follow your mouse movement across the screen.
 
-![Eye Tracker Screenshot](./Screenshot%202025-07-15%20at%2012.13.36%E2%80%AFPM.png)
+![Eye Tracker Screenshot](screenshot.png)
+
 
 ## 🔧 Features
 
@@ -45,6 +46,9 @@ Feel free to ⭐️ the repo and contribute if you'd like!
 ```bash
 git add README.md
 git commit -m "Add README with project description and screenshot"
+git push
+git add README.md
+git commit -m "Add screenshot preview to README"
 git push
 
 
